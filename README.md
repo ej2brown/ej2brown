@@ -1,8 +1,7 @@
 ### Hi there! 👋 
-I'm Elizabeth and here's a few things about me: 
-<!--   - I'm a full-stack developer
-  - Professional Googler
-  - Coffee Enthusiast -->
+I'm Elizabeth and I'm a full-stack developer, professional googler, and coffee enthusias. 
+
+Here's a few things about me: 
 
 - 🔭 I’m currently working on my ever growing collection of personal projects.
 - 🌱 I’m currently learning: GO language, Azure, Kubernetes, etc.
@@ -12,18 +11,8 @@ I'm Elizabeth and here's a few things about me:
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: [I slept in a tent and biked around BC for two months. 🚴‍♀️	⛺](https://en.wikipedia.org/wiki/The_Otesha_Project)
 
+## &#x1f4c8; GitHub Stats
 
-<!--
-**ej2brown/ej2brown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Elizabeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ej2brown&theme=dark&show_icons=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Elizabeth's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ej2brown&theme=dark&show_icons=true)
