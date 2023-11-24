@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 I'm Elizabeth and I'm a full-stack developer, professional googler, and coffee enthusias. 
-
+<!--- 
 Here's a few things about me: 
 
 - 🔭 I’m currently working on my ever growing collection of personal projects.
@@ -16,3 +16,4 @@ Here's a few things about me:
 ![Elizabeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ej2brown&theme=dark&show_icons=true)
 
 ![Elizabeth's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ej2brown&theme=dark&show_icons=true)
+ --->
